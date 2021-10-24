@@ -1,8 +1,0 @@
-AbuBakr Humayun,Male,20,House 52 F8/1 Islamabad,113335111,Karachi,Islamabad,PK727,41,2
-Haroon Riasat,Male,19,House 432 F6/1 Islamabad,113332211,Lahore,Islamabad,PK831,11,10
-Ahmad Aslam,Male,62,House 123 F1/1 Karachi,112122211,Faisalabad,Lahore,PK331,5,22
-Huzaifa Siddiqui,Male,25,House 1 G8/1 Lahore,112131823,Karachi,Islamabad,PK727,15,30
-Asim Alim,Male,19,House 31 Gulshan Town Faisalabad,113131823,Faisalabad,Lahore,PK331,17,25
-Zainab Azeem,Female,21,Pims G8 Islamabad,21312,Lahore,Islamabad,PK831,10,20
-Zain Saeed,Male,29,Kahuta town Rawalpindi,123123,Karachi,Lahore,PK995,87,36
-Samin Humayun,Female,48,House No.32 Wapda City Faisalabad,123123,Lahore,Islamabad,PK893,56,17
